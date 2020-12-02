@@ -1,5 +1,5 @@
 # Static Job Listings
-This challenge was made by Frontend Mentor. [See live preview](https://thecargos.github.io/static-job-listing/)
+This challenge was made by Frontend Mentor. [See live preview](https://thecargos.github.io/static-job-listings/)
 ## The challenge
 
 Your challenge is to build out this job listing page and get it looking as close to the design as possible.
@@ -16,7 +16,7 @@ Your users should be able to:
 
 # Solution
 
-This challenge was made by Frontend Mentor. [See live preview](https://thecargos.github.io/static-job-listing/)
+This challenge was made by Frontend Mentor. [See live preview](https://thecargos.github.io/static-job-listings/)
 
 - Mobile First based
 - BEM used
